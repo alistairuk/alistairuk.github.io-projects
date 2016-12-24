@@ -1,23 +1,14 @@
 ### your site title here
 
-title: Hagura - Light!
-baseurl: /hagura # name of the repository
-email: your@email.com
-
-
+title: Alistair MacDonald's Projects
+baseurl: /projects # name of the repository
+email: contact@agm.me.uk
 
 highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
 
-
-# Tracker
-analytics: UA-83979019-1
-
-# Comments
-disqus-shortname: webjeda-demo
-
-
+#
 #optimization
 #compress.html
 compress_html:
